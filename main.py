@@ -7,3 +7,4 @@ print(message)
 age = input("Dime tu edad:")
 print (f"Tu edad es: " + age)
 
+gender = input("Introduce tu sexo:")
